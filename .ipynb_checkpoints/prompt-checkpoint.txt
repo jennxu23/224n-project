@@ -1,0 +1,6 @@
+<human>:You are asked to come up with a set of 5 task instructions. The task is always `Identify the sentence in the input story where the mystery is revealed`. These task instructions will be given to a GPT model and we will evaluate the GPT model for completing the task.
+Here are the requirements:
+1. You should generate an appropriate input to the instruction. The input field should a mystery story. The input should provide substantial content to make the instruction challenging but should ideally not exceed 500 words.
+2. The output should be an appropriate response to the instruction and the input. Make sure the output is less than 100 words.
+
+List of 5 tasks:
